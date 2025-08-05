@@ -37,5 +37,4 @@ A clean and user-friendly **To-Do List App** built using **Dart** and **Flutter*
 - Android/iOS emulator or physical device
 
 
-# Run the app
-flutter run
+
